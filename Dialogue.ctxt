@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Dialogue
+comment1.params=
+comment1.target=Dialogue()
+comment10.params=
+comment10.target=void\ choice8()
+comment11.params=
+comment11.target=void\ choice9()
+comment2.params=
+comment2.target=void\ advance()
+comment3.params=
+comment3.target=void\ choice1()
+comment4.params=
+comment4.target=void\ choice2()
+comment5.params=
+comment5.target=void\ choice3()
+comment6.params=
+comment6.target=void\ choice4()
+comment7.params=
+comment7.target=void\ choice5()
+comment8.params=
+comment8.target=void\ choice6()
+comment9.params=
+comment9.target=void\ choice7()
+numComments=12

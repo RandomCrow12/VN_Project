@@ -1,0 +1,3 @@
+I made it so paths converged here, but I don't want to code a way for the program to save and load what you chose for only this one decision so this is what you get. Sorry. -RandomCrow
+
+P.S. If this game had achievements I would make this thing be one but I'm not coding achievements rn so just screenshot this or something lmao.
