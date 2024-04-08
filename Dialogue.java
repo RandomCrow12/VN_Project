@@ -79,43 +79,43 @@ public class Dialogue {
                 break;
             case 13:
                 text = "I know now something that I didn't know then. A way that all of this war could have been avoided. \nRather, I know now that all this war WAS avoided.";
-                image = "";
+                image = "sc13.png";
                 break;
             case 14:
                 text = "Atrocities and hurricanes of blood and anger drove humanity to the edge. Knife was to throat in every inch of this sick world.";
-                image = "";
+                image = "sc14.png";
                 break;
             case 15:
                 text = "Yet people found civility in sadness. Their deep history and mutual understanding led them to salvation.";
-                image = "";
+                image = "sc15.png";
                 break;
             case 16:
                 text = "So why? Why is there a knife at my throat now?";
-                image = "";
+                image = "sc16.png";
                 break;
             case 17:
                 text = "Why is there a gun to my head? Why am I going to die?";
-                image = "";
+                image = "sc17.png";
                 break;
             case 18:
                 text = "...";
-                image = "";
+                image = "sc18.png";
                 break;
             case 19:
                 text = "*You feel cold steel graze the right side of your face.*"; 
-                image = "";
+                image = "sc19.png";
                 break;
             case 20:
                 text = "*Your heart pumps rapidly, fear balloons in your stomach, causing your muscles to slightly spasm.*";
-                image = "";
+                image = "sc20.png";
                 break;
             case 21:
                 text = "H-how? I haven't even done anything yet. How did anyone find me? H-HELP! Somebody help!";
-                image = "";
+                image = "sc21.png";
                 break;
             case 22:
                 text = "Damn, my voice isn't working. Nothing will come out of my mouth. What do I do?";
-                image = "";
+                image = "sc22.png";
                 break;
             case 23:
                 text = ""; //will not need for decisions
@@ -123,143 +123,143 @@ public class Dialogue {
                 btext1 = "look to the right"; 
                 btext2 = "call for help again";
 
-                image = "";
+                image = "sc22.png";
                 break;
             case 24: //first choice
                 text = "*you try to look to the right*";
-                image = "";
+                image = "sc22.png";
                 break;
             case 25:
-                text = "I guess I'll see who thought it was a good idea to capture ME, the great goddess of discord: Eris!";
-                image = "";
+                text = "I guess I'll see who thought it was a good idea to capture ME, the great goddess of discord: Er... Haruko I mean!";
+                image = "sc25.png";
                 break;
             case 26:
                 text = "An apple is all it will take to stop you.";
-                image = "";
+                image = "sc25.png";
                 break;
             case 27:
                 text = "*You tilt you're head to the right nervously*";
-                image = "";
+                image = "sc22.png";
                 break;
             case 28:
                 text = "*Your muscles seize up and your neck stops half-way*";
-                image = "";
+                image = "sc22.png";
                 break;
             case 29:
                 text = "H- how about... the power of friendship! With my trusty companion, Mr. Flippy, I will conquer my fear and together we will defeat you.";
-                image = "";
+                image = "sc29.png";
                 break;
             case 30:
                 text = "*You finish turning your head*";
-                image = "";
+                image = "sc29.png";
                 break;
             case 31:
                 text = "It's an alarm clock holding a glock!";
-                image = "";
+                image = "sc31.png";
                 break;
             case 32:
                 text = "Wait... it's just an alarm clock.";
-                image = "";
+                image = "sc32.png";
                 break;
             case 33: //second choice
                 text = "*You call for help again*";
-                image = "";
+                image = "sc22.png";
                 break;
             case 34:
                 text = "HELP ME! *Once again, the words don't come out.*";
-                image = "";
+                image = "sc21.png";
                 break;
             case 35:
                 text = "Let's think about this rationally. There can't be anyone who knows what I'm here to do yet.";
-                image = "";
+                image = "sc22.png";
                 break;
             case 36:
                 text = "I must have just picked a sketchy hotel. How about I ask nicely who this is or tell him where the money is at.";
-                image = "";
+                image = "sc22.png";
                 break;
             case 37:
                 text = "Wait a minute... I'm broke!";
-                image = "";
+                image = "sc22.png";
                 break;
             case 38:
                 text = "Well, I have a little bit of cash, but if anybody seriously checks it, they'll see that it was printed in the future. I guess I'll have to fight then.";
-                image = "";
+                image = "sc22.png";
                 break;
             case 39:
                 text = "*You turn your head to the right*";
-                image = "";
+                image = "sc22.png";
                 break;
             case 40:
                 text = "It's an alarm clock...";
-                image = "";
+                image = "sc40.png";
                 break;
             case 41: //where the end of both choices leads
                 text = "*You leap out of bed and silence the wreched beast of unsatisfying mornings*";
-                image = "";
+                image = "sc41.png";
                 break;
             case 42:
                 text = "That was a strange dream... I guess the anxiety is getting to me.";
-                image = "";
+                image = "sc22.png";
                 break;
             case 43:
                 text = "Having to, you know, cause a tragedy... There are still a few more days before it's time to go. I need to do something to relax.";
-                image = "";
+                image = "sc22.png";
                 break;
             case 44:
-                text = "*You leave your hotel room and go to the store.*";
-                image = "";
+                text = "*You leave your hotel room and head to the store.*";
+                image = "sc44.png";
                 break;
             case 45:
                 text = "I guess I haven't introduced myself to the future yet. I'm Haruko!, and I'm here to rule the past with my cuteness- and kill civilians!.";
-                image = "";
+                image = "sc45.png";
                 break;
             case 46:
                 text = "I wonder what the CIA would think of that. Or the government at all.";
-                image = "";
+                image = "sc44.png";
                 break;
             case 47:
                 text = "Actually, I know what would happen. They would get a report about me and choose not to act on it.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 48:
                 text = "Lol.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 49:
                 text = "Could not be me. I'd personally just win.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 50:
                 text = "Oh Bin Laden- kyun! Your personal assassin of cuteness is here!";
-                image = "";
+                image = "sc50.png";
                 break;
             case 51:
                 text = "*You chuckle to yourself*";
-                image = "";
+                image = "sc47.png";
                 break;
             case 52:
                 text = "Oh yeah, I'm here to do 9/11, not prevent it.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 53:
                 text = "Fuck the CIA. Fuck the US government for interfering with my homeland and the word of God. Praise Allah.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 54:
                 text = "*You enter into the convenience store*";
-                image = "";
+                image = "sc54.png";
                 break;
             case 55:
                 text = "Oh, looky here. There's a Swiss army knife right here. Yoink!";
-                image = "";
+                image = "sc54.png";
                 break;
             case 56:
                 text = "That's mine now. God I love shoplifting.";
-                image = "";
+                image = "sc55.png";
                 break;
             case 57:
                 text = "This guy will be important later. What's your name little guy?";
-                image = "";
+                image = "sc54.png";
                 break;
             case 58:
                 text = "";
@@ -267,47 +267,47 @@ public class Dialogue {
                 btext1 = "Knifey"; 
                 btext2 = "Swiss Cheese";
 
-                image = "";
+                image = "sc58.png";
                 break;
             case 59:
                 text = knifeName + " is is!";
-                image = "";
+                image = "sc58.png";
                 break;
             case 60:
                 text = "I guess I'll go see what they have for entertainment nowadays.";
-                image = "";
+                image = "sc54.png";
                 break;
             case 61:
                 text = "*You exit the convenience store without paying for the knife, how cute :3*";
-                image = "";
+                image = "sc47.png";
                 break;
             case 62:
                 text = "Hmm, I'm gonna go look for a mall.";
-                image = "";
+                image = "sc47.png";
                 break;
             case 63:
                 text = "..."; //[some scenes of walking through location of first city]
-                image = "";
+                image = "sc47.png";
                 break;
             case 64:
                 text = "...";
-                image = "";
+                image = "sc64.png";
                 break;
             case 65:
                 text = "...";
-                image = "";
+                image = "sc65.png";
                 break;
             case 66:
                 text = "Oh, look, there's one.";
-                image = "";
+                image = "sc66.png";
                 break;
             case 67:
                 text = "*You enter the mall*";
-                image = "";
+                image = "sc66.png";
                 break;
             case 68:
                 text = "Where to first?";
-                image = "";
+                image = "sc68.png";
                 break;
             case 69: //choice#4: music store, time to game
                 text = "";
@@ -315,163 +315,163 @@ public class Dialogue {
                 btext1 = "music store";
                 btext2 = "time to game";
 
-                image = "";
+                image = "sc68.png";
                 break;
             case 70: //music store first
                 text = "*You go to the music store*";
-                image = "";
+                image = "sc68.png";
                 break;
             case 71:
                 text = "What albums are coming out in 2001? I wonder. ";
-                image = "";
+                image = "sc71.png";
                 break;
             case 72:
                 text = "<html>The isles of the music store are decked with plastic casing and intricate art. Emotional tones burst forth from around you, as some teenagers listen<br/> to a new CD in the corner of the store. You keep walking.</html>";
-                image = "";
+                image = "sc71.png";
                 break;
             case 73:
                 text = "At the end of the isle you see something. A new album put out this year. You recognize it.";
-                image = "";
+                image = "sc73.png";
                 break;
             case 74:
                 text = "t's lateralus! I love this album. The hypnotic flesh-man on the cover is so cool.";
-                image = "";
+                image = "sc73.png";
                 break;
             case 75:
                 text = "*You pick it up immediately, and slip it under your shirt for later*";
-                image = "";
+                image = "sc73.png";
                 break;
             case 76:
                 text = "Sneaky time :3";
-                image = "";
+                image = "sc73.png";
                 break;
             case 77:
                 text = "*You slowly drift isle to isle, as to not leave the store with a suspicious eye cast upon you.*";
-                image = "";
+                image = "sc73.png";
                 break;
             case 78: //music > games
                 text = "*You enter into the game store*";
-                image = "";
+                image = "sc68.png";
                 break;
             case 79:
                 text = "I guess I'll look for something to play. ";
-                image = "";
+                image = "sc79.png";
                 break;
             case 80:
                 text = "*You check the halls, searching for any of your favorite games from 2001.*";
-                image = "";
+                image = "sc79.png";
                 break;
             case 81:
                 text = "Dang it, I don't see them. I was hoping melee would be out by now. Or Halo. I would've loved to go fight the covenant right now.";
-                image = "";
+                image = "sc79.png";
                 break;
             case 82:
                 text = "<html>I just wish you didn't have to be US marines. It's *called* UNSC but you know it's probably mostly the US, considering how those <br/>guys seem to get into everybody's business.</html>";
-                image = "";
+                image = "sc79.png";
                 break;
             case 83:
                 text = "That's why we needed a kawaii leader like Bin Laden-kyun uwu~ I hope he's happy when we do our job. I love being part of Al-Qaeda.";
-                image = "";
+                image = "sc83.png";
                 break;
             case 84:
                 text = "*You twirl around in your skirt*";
-                image = "";
+                image = "sc83.png";
                 break;
             case 85: //end path
                 text = "I forgot! I'm in a game store. I should probably head out. I can always just read the Quran when I get back to my room.";
-                image = "";
+                image = "sc79.png";
                 break;
             case 86: //game store first
                 text = "*You enter into the game store*";
-                image = "";
+                image = "sc68.png";
                 break;
             case 87:
                 text = "I guess I'll look for something to play.";
-                image = "";
+                image = "sc79.png";
                 break;
             case 88:
                 text = "*You check the halls, searching for any of your favorite games from 2001.*";
-                image = "";
+                image = "sc79.png";
                 break;
             case 89:
                 text = "Dang it, I don't see them. I was hoping melee would be out by now. Or Halo. I would've loved to go fight the covenant right now.";
-                image = "";
+                image = "sc79.png";
                 break;
             case 90:
                 text = "<html>I just wish you didn't have to be US marines. It's *called* UNSC but you know it's probably mostly the US, considering how those <br/>guys seem to get into everybody's business.</html>";
-                image = "";
+                image = "sc79.png";
                 break;
             case 91:
                 text = "That's why we needed a kawaii leader like Bin Laden-kyun uwu~ I hope he's happy when we do our job. I love being part of Al-Qaeda.";
-                image = "";
+                image = "sc83.png";
                 break;
             case 92:
                 text = "*You twirl around in your skirt*";
-                image = "";
+                image = "sc83.png";
                 break;
             case 93:
                 text = "I forgot! I'm in a game store. I should probably head out. I can always just read the Qran after I get some music.";
-                image = "";
+                image = "sc79.png";
                 break;
             case 94: //game>music
                 text = "*You go to the music store*";
-                image = "";
+                image = "sc68.png";
                 break;
             case 95:
                 text = "What albums are coming out in 2001? I wonder.";
-                image = "";
+                image = "sc71.png";
                 break;
             case 96:
                 text = "<html>The isles of the music store are decked with plastic casing and intricate art. Emotional tones burst forth from around you, as some teenagers listen<br/> to a new CD in the corner of the store. You keep walking.</html>";
-                image = "";
+                image = "sc71.png";
                 break;
             case 97:
                 text = "At the end of the isle you see something. A new album put out this year. You recognize it.";
-                image = "";
+                image = "sc73.png";
                 break;
             case 98:
                 text = "It's lateralus! I love this album. The hypnotic flesh-man on the cover is so cool.";
-                image = "";
+                image = "sc73.png";
                 break;
             case 99:
                 text = "*You pick it up immediately, and slip it under your shirt for later*";
-                image = "";
+                image = "sc73.png";
                 break;
             case 100:
                 text = "Sneaky time :3";
-                image = "";
+                image = "sc73.png";
                 break;
             case 101:
                 text = "*You slowly drift isle to isle, as to not leave the store with a suspicious eye cast upon you.*";
-                image = "";
+                image = "sc73.png";
                 break;
             case 102:
                 text = "Time to head back to my hotel room.";
-                image = "";
+                image = "sc68.png";
                 break;
             case 103: //after both stores, you always end up here
                 text = "*You return to the hotel room, put your new CD into the player you stole a few days before and got out the Holy Quran to read a verse or two*";
-                image = "";
+                image = "sc103.png";
                 break;
             case 104:
                 text = "He created the heavens and earth in truth and formed you and perfected your forms; and to Him is the final destination [64:3]";
-                image = "";
+                image = "sc103.png";
                 break;
             case 105:
                 text = "...";
-                image = "";
+                image = "sc103.png";
                 break;
             case 106:
                 text = "I'm getting a little eepy. I can continue my work tomorrow. I need to go save some terrorists.";
-                image = "";
+                image = "sc106.png";
                 break;
             case 107:
                 text = "*You slowly drift to sleep*";
-                image = "";
+                image = "sc107.png";
                 break;
             case 108:
                 text = "...";
-                image = "";
+                image = "sc108.png";
                 break;
             case 109: //backstory pt2
                 text = "Humanity was overcome by its own hubris. Peace and salvation redirected our purpose to solving internal issues and avoiding future conflict.";
@@ -519,39 +519,39 @@ public class Dialogue {
                 break;
             case 120:
                 text = "...";
-                image = "";
+                image = "sc108.png";
                 break;
             case 121:
                 text = "*You wake up again, ready to go commit crime. Well, at least for today, you are going to prevent it.*";
-                image = "";
+                image = "sc107.png";
                 break;
             case 122:
                 text = "Your job is to stop the silly man from killing the group of terrorists hiding out here in Boston.";
-                image = "";
+                image = "sc106.png";
                 break;
             case 123:
                 text = "I wrote down where they were, but I don't know where I left my notebook!";
-                image = "";
+                image = "sc123.png";
                 break;
             case 124:
                 text = "This isn't good. How could I do something so stupid? I'm such a baka!";
-                image = "";
+                image = "sc124.png";
                 break;
             case 125:
                 text = "How about the drawer here...";
-                image = "";
+                image = "sc124.png";
                 break;
             case 126:
                 text = "Nope. Nothing but the Quran.";
-                image = "";
+                image = "sc124.png";
                 break;
             case 127:
                 text = "How about my bag...";
-                image = "";
+                image = "sc127.png";
                 break;
             case 128:
                 text = "Nope. Just "+knifeName+".";
-                image = "";
+                image = "sc127.png";
                 break;
             case 129:
                 text = "*You drop to the floor in a cascading wave of worry*";
@@ -575,15 +575,15 @@ public class Dialogue {
                 break;
             case 134:
                 text = "..."; //running through the city
-                image = "";
+                image = "sc134.png";
                 break;
             case 135:
                 text = "...";
-                image = "";
+                image = "sc135.png";
                 break;
             case 136:
                 text = "...";
-                image = "";
+                image = "sc136.png";
                 break;
             case 137:
                 text = "*You arrive on the scene, ready to help the terrorists.*";
