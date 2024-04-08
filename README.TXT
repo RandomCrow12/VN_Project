@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+September, Yesteryear
+A game by RandomCrow
 ------------------------------------------------------------------------
+VERSION: 0.6
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Credits:
+Code: RandomCrow
+Story & Writing: RandomCrow
+Images: Several free online image sources, RandomCrow
+Emotional Support & Key Details: Tuna
+Music: To be implimented
