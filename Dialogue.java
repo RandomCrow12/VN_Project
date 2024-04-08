@@ -10,7 +10,7 @@ public class Dialogue {
 
     public Dialogue(){
         text = "Main Menu";
-        image = "";
+        image = "mm.png";
         screen = -1;
 
     }
@@ -19,33 +19,33 @@ public class Dialogue {
         switch (screen) {
             case 0:
                 text = "What ever happened to peace? I've only heard of it in books, \nand nobody really reads them anymore.";
-                image = "bvnsmall.png"; //1000 x 625
+                image = "sc0.png"; //1000 x 625
                 break;
             case 1:
                 text = "At least they don't read the ones that talk about peace.";
-                image = "s1i.png";
+                image = "sc1.png";
                 break;
 
             case 2:
                 text = "Peace is the aroma of fresh bread and roses wading over the soft streets. \nThe hurrying townsfolk shuffling to their jobs with a sort of laid-back urgency.";
-                image = "ofc.png";
+                image = "sc2.png";
                 break;
 
             case 3:
                 text = "They care for their work and their lives, but they know how to take it easy.";
-                image = "";
+                image = "sc3.png";
                 break;
             case 4:
                 text = "They know how to relax, how to love. They follow their scent, \nchew on their fluffy bread, and ponder what world they will build for themselves today.";
-                image = "";
+                image = "sc4.png";
                 break;
             case 5:
                 text = "They look at each other, eyes drifting from face to face in caring oversight, \na desire to reassure and support those who begin to sway and fall. ";
-                image = "";
+                image = "sc5.png";
                 break;
             case 6:
                 text = "This image was so comforting to me when I was a child.";
-                image = "";
+                image = "sc6.png";
                 break;
                 //this is a sample choice and needs to exist in code until I implement a real one. For now, I will skip past it
             case 7:
@@ -67,15 +67,15 @@ public class Dialogue {
                 break;
             case 10:
                 text = "<html>I'd read passages on peace and love under a tree -I know, very stereotypical of me- \nwhen the days were nice and cool, but not too cool that frost would<br/> nibble at my fingers or too windy that I may be knocked over by a strange unseen force.</html>";
-                image = "";
+                image = "sc10.png";
                 break;
             case 11:
                 text = "I read on the perfect days.";
-                image = "";
+                image = "sc11.png";
                 break;
             case 12:
                 text = "That was before I knew about war.";
-                image = "";
+                image = "sc12.png";
                 break;
             case 13:
                 text = "I know now something that I didn't know then. A way that all of this war could have been avoided. \nRather, I know now that all this war WAS avoided.";
