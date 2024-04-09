@@ -474,48 +474,48 @@ public class Dialogue {
                 image = "sc108.png";
                 break;
             case 109: //backstory pt2
-                text = "Humanity was overcome by its own hubris. Peace and salvation redirected our purpose to solving internal issues and avoiding future conflict.";
-                image = "";
+                text = "Peace and salvation redirected our purpose to solving internal issues and avoiding future conflict.";
+                image = "sc15.png";
                 break;
             case 110:
                 text = "Of course it was unlikely that peace would ever last, but at least we had it for a short time.";
-                image = "";
+                image = "sc15.png";
                 break;
             case 111:
-                text = "At least we knew there was some hope to stop it once more in the future. So many were so overcome with elation and accomplishment. We could finally enjoy peace.";
-                image = "";
+                text = "<html>At least we knew there was some hope to stop it once more in the future. So many were so overcome with elation and accomplishment.<br/> We could finally enjoy peace.</html>";
+                image = "sc11.png";
                 break;
             case 112:
-                text = "Some, however, in this era of peace, could not bear the thought that prevention of future bloodshed would require centuries of paperwork and droning debate.";
-                image = "";
+                text = "<html>Some, however, in this era of peace, could not bear the thought that prevention of future bloodshed would require centuries of <br/>paperwork and droning debate. Humanity was overcome by its own hubris.</html>";
+                image = "sc112.png";
                 break;
             case 113:
                 text = "<html>When it was discovered that a strange, statistically impossible natural anomaly could be used to send matter backwards in time, the immediate response of<br/> the world governments was to find out exactly what caused it so that they could end it and prevent its use.</html>";
-                image = "";
+                image = "sc113.png";
                 break;
             case 114:
                 text = "Nobody wanted to find out what time travel would do to our world. They were quite naive to think we wouldn't.";
-                image = "";
+                image = "sc113.png";
                 break;
             case 115:
                 text = "<html>Someone wanted to spread peace to the past, and create his own eternity of pristine comfort and beauty where love ruled, and not hate. He left to prevent a <br/>former tragedy, that he believed would save thousands or millions of lives.</html>";
-                image = "";
+                image = "sc0.png";
                 break;
             case 116:
                 text = "But none of us understood what that would actually change about the world. His actions shattered our own peace.";
-                image = "";
+                image = "sc116.png";
                 break;
             case 117:
                 text = "Bombs and bullets rained down over our heads. Thunder cracked like a whip and hurricane winds tore our world down to ashes.";
-                image = "";
+                image = "sc117.png";
                 break;
             case 118:
                 text = "Radiation now invisibly corrupts our flesh and we fall one by one to our own great terror.";
-                image = "";
+                image = "sc118.png";
                 break;
             case 119:
                 text = "Nobody knows the peace that was. It was overwritten to all. All but the ignorant man.";
-                image = "";
+                image = "sc119.png";
                 break;
             case 120:
                 text = "...";
@@ -555,23 +555,23 @@ public class Dialogue {
                 break;
             case 129:
                 text = "*You drop to the floor in a cascading wave of worry*";
-                image = "";
+                image = "sc129.png";
                 break;
             case 130:
                 text = "What if I can't find him. What if they all get killed? I have to find my notebook!";
-                image = "";
+                image = "sc129.png";
                 break;
             case 131:
                 text = "*You turn to your left*";
-                image = "";
+                image = "sc129.png";
                 break;
             case 132:
                 text = "There it is! It was under the bed!";
-                image = "";
+                image = "sc129.png";
                 break;
             case 133:
                 text = "*You check the address in the book and leave your room immediately.*";
-                image = "";
+                image = "sc129.png";
                 break;
             case 134:
                 text = "..."; //running through the city
@@ -587,31 +587,31 @@ public class Dialogue {
                 break;
             case 137:
                 text = "*You arrive on the scene, ready to help the terrorists.*";
-                image = "";
+                image = "sc137.png";
                 break;
             case 138:
                 text = "Ooh, there's a bush I can hide behind. Its a better bush than president Bush, teehee~.";
-                image = "";
+                image = "sc138.png";
                 break;
             case 139:
                 text = "*You hide for a few moments but then...*";
-                image = "";
+                image = "sc139.png";
                 break;
             case 140:
                 text = "*You hear a gunshot!*";
-                image = "";
+                image = "sc139.png";
                 break;
             case 141:
                 text = "I'm too late! He's already inside!";
-                image = "";
+                image = "sc141.png";
                 break;
             case 142:
                 text = "*You rush into the building to see what happened.*";
-                image = "";
+                image = "sc142.png";
                 break;
             case 143:
                 text = "*You peek around the corner into a room. Inside you see the terrorists. Over one of their bodies, you see him... Your father.*";
-                image = "";
+                image = "sc143.png";
                 break;
             case 144: //backstory part 3
                 text = "That man wrote to us about the tragedy and the anomaly. He told us what he knew.";
@@ -663,11 +663,11 @@ public class Dialogue {
                 break;
             case 156:
                 text = "*You reach inside of your bag and take out the gun you've had the whole time.*";
-                image = "";
+                image = "sc143.png";
                 break;
             case 157:
                 text = "This is my chance. One of the terrorists is already dead, but if I kill my father now, they might still be able to hijack the plane alone.";
-                image = "";
+                image = "sc143.png";
                 break;
             case 158:
                 text = "*You hold your gun up to your father*";
@@ -683,123 +683,123 @@ public class Dialogue {
                 break;
             case 160: //follow path of taking the shot & working with terrorists here
                 text = "*...*";
-                image = "";
+                image = "sc160.png";
                 break;
             case 161:
                 text = "Must have been the wind.";
-                image = "";
+                image = "sc160.png";
                 break;
             case 162:
                 text = "*Your father's body drops to the ground, but so does the body of another terrorist. Your father shot at the same time*";
-                image = "";
+                image = "sc162.png";
                 break;
             case 163:
                 text = "Great, now I have to explain myself.";
-                image = "";
+                image = "sc162.png";
                 break;
             case 164:
                 text = "H-hi I'm Haruko, nice to meet you all!";
-                image = "";
+                image = "sc164.png";
                 break;
             case 165:
                 text = "...";
-                image = "";
+                image = "sc162.png";
                 break;
             case 166:
                 text = "I was sent here by Allah to save you all so that we can do our duty.";
-                image = "";
+                image = "sc164.png";
                 break;
             case 167:
                 text = "*The eyes of the terrorists widen in awe at your perfect Arabic*";
-                image = "";
+                image = "sc167.png";
                 break;
             case 168:
                 text = "Wait... now I have to hijack the plane with them. I just said I would help them with *our* duty.";
-                image = "";
+                image = "sc167.png";
                 break;
             case 169:
                 text = "*A sinking feeling builds in your chest and you drop to your knees.*";
-                image = "";
+                image = "sc167.png";
                 break;
             case 170:
                 text = "*To your surprise, the terrorists come to you do offer you comfort and begin praying to Allah*";
-                image = "";
+                image = "sc170.png";
                 break;
             case 171:
                 text = "Maybe this isn't so bad after all.";
-                image = "";
+                image = "sc170.png";
                 break;
             case 172:
                 text = "...";
-                image = "";
+                image = "sc172.png";
                 break;
             case 173:
                 text = "...";
-                image = "";
+                image = "sc173.png";
                 break;
             case 174:
                 text = "*It's September 11. You arrive at the airport with your team in the early morning.*";
-                image = "";
+                image = "sc174.png";
                 break;
             case 175:
                 text = "This is a nice airport. There are so many nice people here. It would be a shame if all of their flights were about to get cancelled.";
-                image = "";
+                image = "sc175.png";
                 break;
             case 176:
-                text = "..."; //you approach security
-                image = "";
+                text = "*you approach security*"; //
+                image = "sc175.png";
                 break;
             case 177:
                 text = "They let you through to the metal detector easily, barely even checking your bags. They would only be searching for bombs anyways.";
-                image = "";
+                image = "sc177.png";
                 break;
             case 178:
                 text = "It's not like there's anything else you can do on a plane... lol.";
-                image = "";
+                image = "sc177.png";
                 break;
             case 179:
                 text = "*beep beep beep*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 180:
                 text = "Shit, it picked up on "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 181:
                 text = "What do you have here?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 182:
                 text = "Hmm? Nothing. I don't know why it's going off.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 183:
                 text = "Miss, we're going to have to pat you down.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 184:
                 text = "Ok, go ahead.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 185:
                 text = "You get patted down but they don't find "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 186:
                 text = "You hid him well (between your breasts). I'm sure he enjoys it.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 187:
                 text = "*You're almost through security.*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 188:
                 text = "So, where's you're destination?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 189:
                 text = "Uhhh, shit, where was flight 11 supposed to go?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 190: //choice, LA or Dallas
                 text = "";
@@ -807,83 +807,83 @@ public class Dialogue {
                 btext1 = "Dallas";
                 btext2 = "Los Angelos";
 
-                image = "";
+                image = "sc179.png";
                 break;
             case 191: //Dallas path begins
                 text = "Miss, I think we need to bring you aside and talk with you further.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 192:
                 text = "Oh fuck.";
-                image = "";
+                image = "sc192.png";
                 break;
             case 193:
                 text = "*They pat you down again*";
-                image = "";
+                image = "sc192.png";
                 break;
             case 194:
                 text = "What's this knife?";
-                image = "";
+                image = "sc192.png";
                 break;
             case 195:
                 text = "It-its under 4 inches, it's allowed!";
-                image = "";
+                image = "sc195.png";
                 break;
             case 196:
                 text = "Why were you hiding it?";
-                image = "";
+                image = "sc195.png";
                 break;
             case 197:
                 text = "Uh, I don't know.";
-                image = "";
+                image = "sc195.png";
                 break;
             case 198:
                 text = "Miss, we're going to have to detain you.";
-                image = "";
+                image = "sc195.png";
                 break;
             case 199:
                 text = "*You and the other terrorists are detained and eventually imprisoned*";
-                image = "";
+                image = "sc195.png";
                 break;
             case 200:
                 text = "...";
-                image = "";
+                image = "sc200.png";
                 break;
             case 201:
                 text = "We got thrown into this stupid cage, and the other terrorists were all caught.";
-                image = "";
+                image = "sc200.png";
                 break;
             case 202:
                 text = "The plan was a complete failure. I bet Osama-kun fucking hates me right now.";
-                image = "";
+                image = "sc200.png";
                 break;
             case 203:
                 text = "I couldn't live up to him.";
-                image = "";
+                image = "sc200.png";
                 break;
             case 204:
                 text = "*You slowly rot away in the cell, as war breaks out around you and the world goes to hell once more.*";
-                image = "";
+                image = "sc200.png";
                 break;
             case 205:
                 text = "...";
-                image = "";
+                image = "sc205.png";
                 break;
             case 206:
                 text = "...";
-                image = "";
+                image = "sc206.png";
                 break;
             case 207:
                 text = "...";
-                image = "";
+                image = "sc207.png";
                 break; //bad ending (security & terrorists)
             case 208: //LA choice
                 text = "OK, you can go through.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 209:
                 text = "Sweet :3 We're in.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 210:
                 text = "You wait out until you can board your flight.";
@@ -1023,78 +1023,78 @@ public class Dialogue {
                 break; //ending (9/11 & terrorists)
             case 244: //leave quietly screen
                 text = "*You put your gun down and silently exit the building.*";
-                image = "";
+                image = "sc141.png";
                 break;
             case 245:
                 text = "A sinking feeling builds in your chest as you hear four more gunshots reverberate.";
-                image = "";
+                image = "sc141.png";
                 break;
             case 246:
                 text = "A whole group of hijackers was just killed. Now you'll have to be the one to hijack the plane.";
-                image = "";
+                image = "sc141.png";
                 break;
             case 247:
                 text = "Why the fuck didn't I do it? Why the fuck couldn't I kill him? Was I too scared? I can't hijack a plane alone.";
-                image = "";
+                image = "sc141.png";
                 break;
             case 248:
                 text = "*Tears drip down your face and your are overwhelmed with sadness*";
-                image = "";
+                image = "sc141.png";
                 break;
             case 249:
                 text = "...";
-                image = "";
+                image = "sc141.png";
                 break;
             case 250:
                 text = "...";
-                image = "";
+                image = "sc250.png";
                 break;
             case 251:
                 text = "There's no other choice. I can't let the future become hell for anyone else.";
-                image = "";
+                image = "sc250.png";
                 break;
             case 252:
                 text = "I'll fucking do it. I'll go ahead to the UA175 crew and stop my dad from killing them, then I'll come back and hijack flight 11 myself.";
-                image = "";
+                image = "sc250.png";
                 break;
             case 253:
                 text = "Besides, I'm not alone. I always have "+knifeName+" with me. Isn't that right?";
-                image = "";
+                image = "sc253.png";
                 break;
             case 254:
                 text = "I have to get there before him. I have the address of the next group with me.";
-                image = "";
+                image = "sc254.png";
                 break;
             case 255:
                 text = "They're staying at another hotel nearby. Well, as nearby as you can get in Boston.";
-                image = "";
+                image = "sc250.png";
                 break;
             case 256:
                 text = "I'm going to need a taxi but I don't have any good money... How am I supposed to make it there before him?";
-                image = "";
+                image = "sc250.png";
                 break;
             case 257:
                 text = "I know! I'll ask Flippy for help.";
-                image = "";
+                image = "sc257.png";
                 break;
             case 258:
                 text = "Hey Flippy, do you know how I can make some quick money to get a taxi?";
-                image = "";
+                image = "sc257.png";
                 break;
             case 259:
                 text = "...";
-                image = "";
+                image = "sc257.png";
                 break;
             case 260:
                 text = "I guess not. Flippy's been giving me the silent treatment recently. That's not very nice of him.";
-                image = "";
+                image = "sc250.png";
                 break;
             case 261:
                 text = "I guess I'll just hotwire a car. It's not like any investigation will tie it back to a person who doesn't exist yet.";
-                image = "";
+                image = "sc254.png";
                 break;
             case 262:
-                text = "...";
+                text = "..."; //get paking lot image at sunset
                 image = "";
                 break;
             case 263:
@@ -1106,7 +1106,7 @@ public class Dialogue {
                 image = "";
                 break;
             case 265:
-                text = "*You start the engine and drive*";
+                text = "*You start the engine and drive*"; //put Haruko in the window and put the car over multiple night streets
                 image = "";
                 break;
             case 266:
@@ -1118,7 +1118,7 @@ public class Dialogue {
                 image = "";
                 break;
             case 268:
-                text = "There it is! The next hotel. I guess I'll park this guy in the back.";
+                text = "There it is! The next hotel. I guess I'll park this guy in the back."; //hotel at night
                 image = "";
                 break;
             case 269:
@@ -1452,11 +1452,11 @@ public class Dialogue {
                 break;
             case 349:
                 text = "This is a nice airport. There are so many nice people here. It would be a shame if all of their flights were about to get canceled.";
-                image = "";
+                image = "sc175.png";
                 break;
             case 350:
-                text = "..."; //you approach security
-                image = "";
+                text = "*you approach security*"; //
+                image = "sc175.png";
                 break;
             case 351:
                 text = "They let you through to the metal detector easily, barely even checking your bags. They would only be searching for bombs anyways.";
@@ -1468,47 +1468,47 @@ public class Dialogue {
                 break;
             case 353:
                 text = "*beep beep beep*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 354:
                 text = "Shit, it picked up on "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 355:
                 text = "What do you have here?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 356:
                 text = "Hmm? Nothing. I don't know why it's going off.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 357:
                 text = "Miss, we're going to have to pat you down.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 358:
                 text = "Ok, go ahead.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 359:
                 text = "You get patted down but they don't find "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 360:
                 text = "You hid him well (between your breasts). I'm sure he enjoys it.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 361:
                 text = "*You're almost through security.*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 362:
                 text = "So, where's you're destination?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 363:
                 text = "Uhhh, shit, where was flight 11 supposed to go?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 364: //choice Los Angelos, Dallas
                 text = "";
@@ -1516,12 +1516,12 @@ public class Dialogue {
                 btext1 = "Dallas";
                 btext2 = "Los Angelos";
 
-                image = "";
+                image = "sc179.png";
                 break;
 
             case 365: //Dallas path
                 text = "Miss, I think we need to bring you aside and talk with you further.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 366:
                 text = "Oh fuck.";
@@ -1557,27 +1557,27 @@ public class Dialogue {
                 break;
             case 374:
                 text = "We got thrown into this stupid cage, and the other terrorists were all caught. The plan was a complete failure.";
-                image = "";
+                image = "sc200.png";
                 break;
             case 375:
                 text = "I bet Osama-kun fucking hates me right now. I couldn't live up to him.";
-                image = "";
+                image = "sc200.png";
                 break;
             case 376:
                 text = "*You slowly rot away in the cell, as war breaks out around you and the world goes to hell once more.*";
-                image = "";
+                image = "sc200.png";
                 break;
             case 377:
                 text = "...";
-                image = "";
+                image = "sc205.png";
                 break;
             case 378:
                 text = "...";
-                image = "";
+                image = "sc206.png";
                 break;
             case 379:
                 text = "...";
-                image = "";
+                image = "sc207.png";
                 break; //bad ending (security & students)
             case 380: //LA path
                 text = "OK, you can go through.";
@@ -1881,11 +1881,11 @@ public class Dialogue {
                 break;
             case 455: //path 2 w/ father, last end
                 text = "This is a nice airport. There are so many nice people here. It would be a shame if all of their flights were about to get canceled.";
-                image = "";
+                image = "sc175.png";
                 break;
             case 456:
-                text = "..."; //you approach security
-                image = "";
+                text = "*you approach security*"; 
+                image = "sc175.png";
                 break;
             case 457:
                 text = "They let you through to the metal detector easily, barely even checking your bags. They would only be searching for bombs anyways.";
@@ -1897,47 +1897,47 @@ public class Dialogue {
                 break;
             case 459:
                 text = "*beep beep beep*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 460:
                 text = "Shit, it picked up on "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 461:
                 text = "What do you have here?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 462:
                 text = "Hmm? Nothing. I don't know why it's going off.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 463:
                 text = "Miss, we're going to have to pat you down.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 464:
                 text = "Ok, go ahead.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 465:
                 text = "You get patted down but they don't find "+knifeName+".";
-                image = "";
+                image = "sc179.png";
                 break;
             case 466:
                 text = "You hid him well (between your breasts). I'm sure he enjoys it.";
-                image = "";
+                image = "sc179.png";
                 break;
             case 467:
                 text = "*You're almost through security.*";
-                image = "";
+                image = "sc179.png";
                 break;
             case 468:
                 text = "So, where's you're destination?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 469:
                 text = "Uhhh, shit, where was flight 11 supposed to go?";
-                image = "";
+                image = "sc179.png";
                 break;
             case 470:
                 text = "*Your father interjects from behind you*";

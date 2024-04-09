@@ -2,7 +2,7 @@
 September, Yesteryear
 A game by RandomCrow
 ------------------------------------------------------------------------
-VERSION: 0.7
+VERSION: 0.8
 
 Credits:
 Code: RandomCrow
