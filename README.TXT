@@ -2,11 +2,11 @@
 September, Yesteryear
 A game by RandomCrow
 ------------------------------------------------------------------------
-VERSION: 0.8
+VERSION: 1.0
 
 Credits:
 Code: RandomCrow
 Story & Writing: RandomCrow
 Images: see:photoref, RandomCrow
-Emotional Support & Key Details: Tuna
-Music: To be implimented
+Emotional Support & Inspiration: Tuna
+Music: To be implimented (if ever lol)

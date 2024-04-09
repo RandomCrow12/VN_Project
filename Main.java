@@ -12,7 +12,7 @@ public class Main{
         
         
         Dialogue dia = new Dialogue();
-        JFrame frame = new JFrame("BadVisualNovel");
+        JFrame frame = new JFrame("September, Yesteryear");
         frame.setSize(500,400);
         frame.setVisible(true);
         frame.setLocationRelativeTo(null);
