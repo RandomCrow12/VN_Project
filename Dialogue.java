@@ -270,7 +270,7 @@ public class Dialogue {
                 image = "sc58.png";
                 break;
             case 59:
-                text = knifeName + " is is!";
+                text = knifeName + " it is!";
                 image = "sc58.png";
                 break;
             case 60:
@@ -410,7 +410,7 @@ public class Dialogue {
                 image = "sc83.png";
                 break;
             case 93:
-                text = "I forgot! I'm in a game store. I should probably head out. I can always just read the Qran after I get some music.";
+                text = "I forgot! I'm in a game store. I should probably head out. I can always just read the Quran after I get some music.";
                 image = "sc79.png";
                 break;
             case 94: //game>music
